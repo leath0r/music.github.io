@@ -1,0 +1,55 @@
+h1 {
+    color: rgb(246, 240, 240);
+    padding-left: 5%;
+    background-color: rgba(240, 248, 255, 0.22);
+
+}
+
+html {
+    background-image: url(https://uprostim.com/wp-content/uploads/2021/04/image019-45.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+li {
+    color: rgb(240, 236, 236);
+}
+
+hr {
+    border: none;
+    height: 3px;
+
+    color: hsl(0, 24%, 96%);
+    background-color: hsl(0, 22%, 95%);
+}
+
+
+.autor {
+    color: rgb(232, 238, 238);
+    padding-left: 10%;
+
+
+}
+
+a {
+    color: rgb(243, 241, 241);
+
+
+}
+
+.poloska {
+    border: none;
+    height: 10px;
+    color: hsl(0, 24%, 96%);
+    background-color: hsl(0, 22%, 95%);
+}
+
+body {
+    margin: 0%;
+
+}
